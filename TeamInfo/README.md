@@ -16,7 +16,7 @@ Team Purple
 )*
 
 ##### Task Division
-+ - **Member 1**: Requirement analysis, system design, and documentation  
-+ - **Member 2**: Database design and backend development  
-+ - **Member 3**: Frontend development, testing, and report preparation
+ - **Member 1**: Requirement analysis, system design, and documentation  
+ - **Member 2**: Database design and backend development  
+ - **Member 3**: Frontend development, testing, and report preparation
 
