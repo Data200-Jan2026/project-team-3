@@ -1,7 +1,7 @@
-#  Student Attendance Management System
+#  Student Attendance Management System in college and school
 
 ## Problem Statement
-+ Managing student attendance manually is time-consuming, error-prone, and inefficient, especially in colleges with large numbers of students. Traditional paper-based attendance systems can lead to data loss, proxy attendance, difficulty in tracking attendance records, and delays in generating reports. There is a need for a simple, digital system that can record, store, and manage attendance efficiently while providing accurate summaries for teachers and administrators.
++ Managing student attendance manually is time-consuming, error-prone, and inefficient, especially in school and colleges with large numbers of students. Traditional paper-based attendance systems can lead to data loss, proxy attendance, difficulty in tracking attendance records, and delays in generating reports. There is a need for a simple, digital system that can record, store, and manage attendance efficiently while providing accurate summaries for teachers and administrators.
 
 + The objective of this project is to design and develop a Student Attendance Management System that allows teachers to mark attendance digitally and enables administrators to maintain centralized attendance records. The system focuses on ease of use, accuracy, and basic reporting rather than advanced technologies.
 
