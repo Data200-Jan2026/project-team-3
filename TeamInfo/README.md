@@ -9,10 +9,10 @@
 Team Purple
 
 #### Team Members
-1. *Member 1 Name (dikshantshahi7-jpg
+1. *Member 1 (dikshantshahi7-jpg
 )*
-2. *Member 2 Name (Prash405271)*
-3. *Member 3 Name (hardikkharel141-sketch
+2. *Member 2  (Prash405271)*
+3. *Member 3  (hardikkharel141-sketch
 )*
 
 ##### Task Division
