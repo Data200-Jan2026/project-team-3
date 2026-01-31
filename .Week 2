@@ -1,0 +1,46 @@
+# Week 2: Literature Review and Dataset Selection
+
+## Project Title: Student Attendance Management System
+
+### Literature Review
+
+1. Web-Based Attendance Management System
+Many studies explain that web-based attendance systems are better than manual attendance. These systems help teachers record attendance quickly and store it safely in a database. They reduce paperwork and mistakes that usually happen in manual registers. Research shows that such systems save time and make attendance records easy to access and manage.
+
+2. Automated Attendance Systems
+Some research focuses on automated attendance systems using technologies like RFID or biometric methods. These systems help avoid fake attendance and improve accuracy. However, studies also mention that these systems are costly and need special hardware. For small colleges, a software-based attendance system is more affordable and easier to maintain.
+
+3. Database-Based Student Management Systems
+Several studies discuss database-based student management systems. These systems store student information and attendance records in an organized way. Research shows that databases help generate attendance reports easily and keep data secure. This supports the use of a database in the Student Attendance Management System.
+Dataset Selection
+
+#### For this project, a simple student attendance dataset will be used.
+The dataset includes:
+
+Student ID
+
+Student Name
+
+Class / Section
+
+Subject
+
+Date
+
+Attendance Status (Present / Absent)
+
+The dataset can be collected manually from a class or created as sample data for testing. This dataset is suitable because it represents real attendance records used in schools and colleges.
+
+##### Deliverables
+
+At least 3 literature reviews of related attendance systems
+
+A student attendance dataset for system implementation
+
+###### References 
+
+Kumar, S., & Sharma, A. (2018). Web-based student attendance management system. International Journal of Computer Applications, 179(25), 10–14.
+
+Patil, R., & Shukla, M. (2019). Automated attendance management system using RFID. International Journal of Engineering Research and Technology, 8(6), 120–123.
+
+Singh, P., & Verma, R. (2020). Database-driven student information and attendance system. Journal of Information Systems and Technology, 5(2), 45–50.
