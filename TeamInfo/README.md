@@ -1,22 +1,20 @@
-#  Student Attendance Management System 
+# AI Job Replacement & Skill Shift Dataset
 
 ## Problem Statement
-+ Managing student attendance manually is time-consuming, error-prone, and inefficient, especially in school and colleges with large numbers of students. Traditional paper-based attendance systems can lead to data loss, proxy attendance, difficulty in tracking attendance records, and delays in generating reports. There is a need for a simple, digital system that can record, store, and manage attendance efficiently while providing accurate summaries for teachers and administrators.
 
-+ The objective of this project is to design and develop a Student Attendance Management System that allows teachers to mark attendance digitally and enables administrators to maintain centralized attendance records. The system focuses on ease of use, accuracy, and basic reporting rather than advanced technologies.
+AI technologies are rapidly transforming industries by automating repetitive and routine tasks. Many traditional jobs are at risk of being replaced, while new job roles are emerging that require advanced digital and technical skills. Organizations face challenges in identifying which jobs are vulnerable, understanding skill gaps, and preparing employees for future demands. There is a need for a structured dataset that can analyze job replacement risk and skill shifts caused by AI adoption.
+
++ The objective of this project is to analyze the AI Job Replacement & Skill Shift Dataset to identify high-risk job sectors, understand changing skill requirements, and provide insights for workforce adaptation. The system focuses on data analysis, visualization, and prediction of automation risk rather than advanced AI development.
 
 ### Team Name
 Team Purple
 
 #### Team Members
-1. *Member 1 Name (dikshantshahi7-jpg
-)*
-2. *Member 2 Name (Prash405271)*
-3. *Member 3 Name (hardikkharel141-sketch
-)*
+1. *Member 1  (dikshantshahi7-jpg)*
+2. *Member 2  (Prash405271)*
+3. *Member 3  (hardikkharel141-sketch)*
 
-##### Task Division
- - **Member 1**: Requirement analysis, system design, and documentation  
- - **Member 2**: Database design and backend development  
- - **Member 3**: Frontend development, testing, and report preparation
-
+#### Task Division
+- **Member 1**: Requirement analysis, literature review, and documentation
+- **Member 2**: Data cleaning, database handling, and backend/model developmente
+- **Member 3**: Data visualization, frontend/report preparation, and testing
